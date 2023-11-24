@@ -1,0 +1,38 @@
+{
+    "data":[
+            {"data_char":"Stand",
+            "sound":"Commands/5.mpeg"
+    },
+            {"data_char":"Hands down",
+            "sound":"Commands/6.mpeg"
+    },
+            {"data_char":"clap",
+            "sound":"Commands/7.mpeg"
+    },
+            {"data_char":"Hands up",
+            "sound":"Commands/8.mpeg"
+    },
+            {"data_char":"stretch arms",
+            "sound":"Commands/9.mpeg"
+    },
+            {"data_char":"turn around",
+            "sound":"Commands/10.mpeg"
+    },
+            {"data_char":"stand up",
+            "sound":"Commands/11.mpeg"
+    },
+            {"data_char":"sing",
+            "sound":"Commands/12.mpeg"
+    },
+            {"data_char":"sit down",
+            "sound":"Commands/13.mpeg"
+    },
+            {"data_char":"write",
+            "sound":"Commands/14.mpeg"
+    },
+  
+            {"data_char":"read",
+            "sound":"Commands/15.mpeg"
+    }
+    ]
+}

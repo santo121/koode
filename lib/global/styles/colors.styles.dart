@@ -1,0 +1,27 @@
+import 'package:flutter/material.dart';
+
+const kRed = Color(0XFFB00020);
+const kGold = Color(0XFFE2C792);
+const kGrey = Color(0XFFF8F8F8);
+const kBlue = Color(0XFF4D61FC);
+const kBlueLight = Color(0xFFCAD0FE);
+const kBackground = Color(0xFFF8F8F8);
+const kBlueVLight = Color(0xFFEFF0F8);
+const kFail = Color(0XFFFD5151);
+const kBlack = Color(0XFF000000);
+const kWhite = Color(0XFFFFFFFF);
+const kNavClr = Color(0XFFEAEEF2);
+const kBtnBdr = Color(0XFFF1F3F6);
+const kTrans = Colors.transparent;
+const kYellow = Color(0XFFF0E3C8);
+const kBlack50 = Color(0XFF7F7F7F);
+const kBlack20 = Color(0xFFBDBDBD);
+const kHlpBlue = Color(0XFF3A4276);
+const kHlpYellow = Color(0XFFF9BA48);
+const kGreyLight = Color(0XFFF8F8F8);
+const kGreyDark =  Color(0xFFA4A4A4);
+const kHlpCardGrey = Color(0XFFCFD7E3);
+const kPaySalBlueClr = Color(0XFF6B80AF);
+const kHlpHomeItemClr = Color(0XFFF1F3F6);
+const kHlpHomeItemTxtClr = Color(0XFF7B7F9E);
+const kPaySalContainerClr = Color(0XFFF2F0F0);

@@ -1,0 +1,28 @@
+{
+    "data":[
+        {"data_char":"Rhyme ONE",
+            "sound":"Rhymes/ 1.aac"
+    },
+        {"data_char":"Rhyme TWO",
+            "sound":"Rhymes/2.aac"
+    },
+        {"data_char":"Rhyme THree",
+            "sound":"Rhymes/3.aac"
+    },
+        {"data_char":"Rhyme Four",
+            "sound":"Rhymes/4.aac"
+    },
+        {"data_char":"Rhyme six",
+            "sound":"Rhymes/5.aac"
+    },
+        {"data_char":"Rhyme seven",
+            "sound":"Rhymes/6.mpeg"
+    },
+        {"data_char":"Rhyme eight",
+            "sound":"Rhymes/7.mpeg"
+    }
+       
+     
+
+    ]
+}
